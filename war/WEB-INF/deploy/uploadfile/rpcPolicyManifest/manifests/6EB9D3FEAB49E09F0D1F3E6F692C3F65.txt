@@ -1,0 +1,2 @@
+serviceClass: com.infokom.gwt.uploadfile.client.GreetingService
+path: 52E5B24C0F6E1C5B72CCC0D68A956978.gwt.rpc
